@@ -10,7 +10,7 @@
 ### 🧠 Giới thiệu nhanh
 
 - 🔭 Hiện mình đang học và phát triển dự án bằng **Java Core, JDBC, JSP/Servlet, Spring Boot**
-- ⚙️ Có kinh nghiệm kết nối và thao tác dữ liệu với **SQL Server**
+- ⚙️ Có kinh nghiệm kết nối và thao tác dữ liệu với **My SQL**
 - 🎯 Mục tiêu: Trở thành **Backend Developer chuyên nghiệp**
 - 💬 Sở thích: Tìm hiểu kiến trúc hệ thống, API và tối ưu hiệu suất ứng dụng
 
@@ -29,7 +29,7 @@
 
 | 🧾 Tên dự án | 📜 Mô tả | 🧩 Công nghệ |
 |---------------|----------|--------------|
-| **PolyCafe Management** | Ứng dụng quản lý khuyến mãi, hóa đơn và khách hàng cho quán cà phê | Java Swing, JDBC, SQL Server |
+| **PolyCafe Management** | Ứng dụng quản lý khuyến mãi, hóa đơn và khách hàng cho quán cà phê | Java Swing, JDBC, My SQL |
 | **Movie Ticket Booking** | Website đặt vé xem phim trực tuyến (đăng nhập, đặt vé, thanh toán) | JSP/Servlet, MySQL |
 | **Hotel Manager** | Ứng dụng quản lý khách sạn (phòng, khách hàng, hóa đơn) | Java JDBC, DAO Pattern |
 
