@@ -20,7 +20,7 @@
 
 | Ngôn ngữ | Framework / Tool | Cơ sở dữ liệu | Công cụ |
 |-----------|------------------|----------------|----------|
-| ☕ Java | Spring Boot, JSP/Servlet, JDBC | SQL Server | Git, Postman, Eclipse, IntelliJ IDEA |
+| ☕ Java | Spring Boot, JSP/Servlet, JDBC | My SQL | Git, Hoppscotch, Eclipse, IntelliJ IDEA, DataGrip, Docker |
 | 🌐 HTML, CSS | Bootstrap | MySQL (cơ bản) | VS Code, GitHub Desktop |
 
 ---
